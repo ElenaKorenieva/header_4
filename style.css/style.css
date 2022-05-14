@@ -38,7 +38,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 
 .body {
-    background-image: url('../assets/Background.png');
+    background-image: url('/header_4/assets/Background.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
